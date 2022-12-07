@@ -1,0 +1,2 @@
+# xd
+ um scritp ai
